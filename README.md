@@ -60,4 +60,16 @@ Balaji Viswanathan/[Quora](http://go.skimresources.com/?id=80757X1532039&xs=1&is
 
 더보기: [Big Data by TED-Ed (video)](https://www.youtube.com/watch?v=j-0cUmUyb-Y), [What is Big Data and Hadoop (video)](https://www.youtube.com/watch?v=FHVuRxJpiwI)
 
+## 1.5 – [데이터 구조](https://en.wikipedia.org/wiki/Data_structure)
+
+모든 컴퓨터 과학자들과 프로그래머가 적어도 이것들을 알아야 합니다:
+
+- [Array](http://en.wikipedia.org/wiki/Array_data_structure)
+- [Tree](http://en.wikipedia.org/wiki/Tree_%28data_structure%29)
+- [Stack](http://en.wikipedia.org/wiki/Stack_%28abstract_data_type%29)
+- [Queue](http://en.wikipedia.org/wiki/Queue_%28abstract_data_type%29)
+- [Graph](http://en.wikipedia.org/wiki/Graph_%28abstract_data_type%29)
+- [Hash Table](http://en.wikipedia.org/wiki/Hash_table)
+- [Linked List](http://en.wikipedia.org/wiki/Linked_list)
+- [Heap](http://en.wikipedia.org/wiki/Heap_%28data_structure%29)
 
