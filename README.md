@@ -48,3 +48,6 @@ Aaron Krolik/[Quora](http://go.skimresources.com/?id=80757X1532039&xs=1&isjs=1&u
 ![드로스테효과](http://carlcheo.com/wp-content/uploads/2015/04/Droste.jpg)
 
 드로스테 효과로 알려진 [다른 예제들](http://www.webdesignerdepot.com/2009/09/50-stunning-examples-of-the-droste-effect/)이 있습니다.
+
+아직 재귀가 뭔지 모르시겠다면 [여기](https://github.com/serendip811/40easy#13--재귀)를 확인하시고... 아니면 계속 읽어내려갑시다.
+
