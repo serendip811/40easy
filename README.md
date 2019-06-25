@@ -17,18 +17,18 @@
 
 ## 1.1 – [빅 O 표기법 (점근 표기법)](http://en.wikipedia.org/wiki/Big_O_notation)
 
-[해리포터 전편 블루레이](http://amzn.to/1F2nDhh)를 아마존에서 주문하고 동시에 온라인에서 다운로드도 한다고 해보자.
-어떤게 더 빠를지 생각해보자. 배송이 도착하려면 아마 몇일이 걸릴거고 다운로드는 30분만에 완료된다. 너무 차이가 큰가?
+[해리포터 전편 블루레이](http://amzn.to/1F2nDhh)를 아마존에서 주문하고 동시에 온라인에서 다운로드도 한다고 해봅시다.
+어떤게 더 빠를지 생각해볼까요. 배송이 도착하려면 아마 몇일이 걸릴거고 다운로드는 30분만에 완료될겁니다. 너무 차이가 큰죠?
 
-이번엔 몇개의 영화들을 더 많이 산다고 해보자. 반지의 제왕, 트와일라잇, 다크나이트 트릴로지 등등.
-그리고 동시에 이 영화들을 다 다운로드 하면 어떨까? 배송은 마찬가지로 몇일 걸리겠지만 다운로드는 3일은 기다려야 완료된다.
-온라인으로 몇편을 구매하든 배송기간에 영향을 미치지 않는다. 출력은 늘 동일하다. 이걸 O(1)이라고 한다.
-다운로드 시간은 영화의 파일 사이즈에 비례해서 커진다. 이걸 O(n)이라고 한다.
+이번엔 몇개의 영화들을 더 많이 산다고 해보죠. 반지의 제왕, 트와일라잇, 다크나이트 트릴로지 등등.
+그리고 동시에 이 영화들을 다 다운로드 하면 어떨까요? 배송은 마찬가지로 몇일 걸리겠지만 다운로드는 3일은 기다려야 완료될겁니다.
+온라인으로 몇편을 구매하든 배송기간에 영향을 미치지 않습니다. 출력은 늘 동일합니다. 이걸 O(1)이라고 합니다.
+다운로드 시간은 영화의 파일 사이즈에 비례해서 커지죠. 이걸 O(n)이라고 합니다.
 
-확인해보니, 온라인 주문이 다운로드보다 더 확장이 쉬운걸 알 수 있다.
-빅 O 표기법에 대해하는것은 알고리즘의 효율성과 확장성을 측정하는데 중요한 도움을 준다.
+확인해보니, 온라인 주문이 다운로드보다 더 확장이 쉬운걸 알 수 있습니다.
+빅 O 표기법에 대해하는것은 알고리즘의 효율성과 확장성을 측정하는데 중요한 도움을 줍니다.
 
-참고: 빅 O 표기법은 알고리즘에서 최악의 케이스를 나타낸다. 위의 예제에서 O(1)과 O(n)이 최악의 케이스라고 가정하자.
+참고: 빅 O 표기법은 알고리즘에서 최악의 케이스를 나타냅니다. 위의 예제에서 O(1)과 O(n)이 최악의 케이스라고 가정합시다.
 
 더보기: [Big O Notations (video)](https://www.youtube.com/watch?v=V6mKVRU1evU), [Plain English explanation of Big O](http://stackoverflow.com/questions/487258/plain-english-explanation-of-big-o), [A Beginner’s Guide to Big O Notation](http://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
 
@@ -41,3 +41,10 @@
 
 >영화관에 있는 누군가가 당신에게 몇번째 열에 앉아있냐고 묻습니다. 당신은 몇번째 열인지 세기 귀찮아서 앞사람에게 물어봅니다. 앞사람이 한 대답에서 1만 더하면됩니다. 똑똑하군요! 그치만 앞사람도 당신과 똑같이 행동했습니다. 마침내 제일 앞에 앉은 사람에게 질문이 도달했습니다. "나는 1번 열에 앉았어요!". 거기서부터 올바른 메시지가(1씩 증가하면서) 물어본 사람에게까지 전달됩니다.
 Aaron Krolik/[Quora](http://go.skimresources.com/?id=80757X1532039&xs=1&isjs=1&url=http%3A%2F%2Fwww.quora.com%2FHow-should-I-explain-recursion-to-a-4-year-old%2Fanswer%2FAaron-Krolik&xguid=62f2a82b862028b7bb904f718462b28f&xuuid=4ac041a637bc9d05bb56b8d0a0d91658&xsessid=&xcreo=0&xed=0&sref=http%3A%2F%2Fcarlcheo.com%2Fcompsci&xtz=-540&jv=13.20.0-stackpath&bv=2.5.1)
+
+[드로스테 효과](https://en.wikipedia.org/wiki/Droste_effect)로 알려진 다른 예가 있습니다.
+간호사가 쟁반을 들고 있고 그 위에 컵과 작은 그림이 그려진 코코아 통이 있습니다. 코코아 통의 그림은 간호사가 같은 쟁반을 들고 서있는 그림이 계속해서 그려져 있습니다.
+
+![드로스테효과](http://carlcheo.com/wp-content/uploads/2015/04/Droste.jpg)
+
+드로스테 효과로 알려진 [다른 예제들](http://www.webdesignerdepot.com/2009/09/50-stunning-examples-of-the-droste-effect/)이 있습니다.
