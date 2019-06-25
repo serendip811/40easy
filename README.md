@@ -51,3 +51,13 @@ Aaron Krolik/[Quora](http://go.skimresources.com/?id=80757X1532039&xs=1&isjs=1&u
 
 아직 재귀가 뭔지 모르시겠다면 [여기](https://github.com/serendip811/40easy#13--재귀)를 확인하시고... 아니면 계속 읽어내려갑시다.
 
+## 1.4 – [Big Data](https://en.wikipedia.org/wiki/Big_data)
+
+>정원의 수도관에 누수가 생겼다고 해봅시다. 문제를 해결하기 위해 양동이와 씰링 재료들을 가져왔습니다. 잠시 후에 누수가 더 커져서 더 큰 도구를 가지고올 배관공이 필요하다는 것을 알수 있습니다. 그 사이에 당신은 여전히 양동이를 이용해서 물을 퍼냅니다. 잠시 후, 지하에 엄청나게 많은 양의 물이 누수되어 흐르고 있다는 것을 깨닫게 됩니다. 매 초 10L의 물을 처리해야 합니다. 양동이로는 더는 감당할 수 없습니다. 물의 양과 속도가 증가했기 때문에 문제 해결을 위해 완전히 새로운 다른 방법의 접근이 필요합니다. 도시가 범람하는 것을 막으려면 막대한 토목 공학 전문 지식과 정교한 통제 시스템을 필요로하는 거대한 댐을 정부가 만들어야 할 수도 있습니다.
+Balaji Viswanathan/[Quora](http://go.skimresources.com/?id=80757X1532039&xs=1&isjs=1&url=http%3A%2F%2Fwww.quora.com%2FWhat-is-Big-Data-16%2Fanswer%2FBalaji-Viswanathan-2&xguid=62f2a82b862028b7bb904f718462b28f&xuuid=41a28108e3b9bc3087637bbd35c0ce1c&xsessid=&xcreo=0&xed=0&sref=http%3A%2F%2Fcarlcheo.com%2Fcompsci&xtz=-540&jv=13.20.0-stackpath&bv=2.5.1)
+
+빅 데이터는 기존의 데이터 처리 도구로는 관리 할 수없는 크고 복잡한 데이터 세트를 말합니다.
+
+더보기: [Big Data by TED-Ed (video)](https://www.youtube.com/watch?v=j-0cUmUyb-Y), [What is Big Data and Hadoop (video)](https://www.youtube.com/watch?v=FHVuRxJpiwI)
+
+
