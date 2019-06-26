@@ -73,3 +73,12 @@ Balaji Viswanathan/[Quora](http://go.skimresources.com/?id=80757X1532039&xs=1&is
 - [Linked List](http://en.wikipedia.org/wiki/Linked_list)
 - [Heap](http://en.wikipedia.org/wiki/Heap_%28data_structure%29)
 
+# Core Concept #2 – [인공 지능](http://en.wikipedia.org/wiki/Artificial_intelligence)
+
+## 2.1 – [탐욕 알고리즘](https://en.wikipedia.org/wiki/Greedy_algorithm)
+
+하이킹을 가고 있다고 상상해봅시다. 가능한 한 최고봉에 도달하는 것이 목표입니다. 올라가기 전에 지도를 펼쳐보지만 지도에 표시된 경로가 수천 가지입니다. 각각의 경로를 평가할 시간도 없고 너무 귀찮습니다. 지도를 버려버립시다! 탐욕스럽고 근시안적인 간단한 전략으로 하이킹을 시작합니다. 가장 위쪽으로 기울어진 경로를 따라 올라갑니다.
+
+여행이 끝나고 몸 전체가 아프고 피곤합니다. 처음으로 지도를 펼쳐 봅니다. 세상에! 계속 위로만 올라갈것이 아니라 진흙강을 건넜어야만 했네요.
+
+탐욕 알고리즘은 최고의 즉각적인 선택을 하고 선택에 대해 다시 생각해보지 않습니다.
