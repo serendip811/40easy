@@ -93,3 +93,23 @@ Balaji Viswanathan/[Quora](http://go.skimresources.com/?id=80757X1532039&xs=1&is
 또 매번 다른 시작점을 무작위로 선택해서 출발할 수도 있습니다. 그래서 매번 비슷한 지역에 머물러 맴돌 가능성이 줄어듭니다.
 
 언덕 오르기 알고리즘은 주변 솔루션을 만들어서 더 나은 솔루션을 찾으려고 시도합니다. 각각의 주변 솔루션은 지금까지 최고인 솔루션을 기반으로 단일 요소들을 수정하여 만들어집니다.
+
+## 2.3 – [담금질 기법 알고리즘](https://en.wikipedia.org/wiki/Simulated_annealing)
+
+에베레스트산. 당신이 직면한 가장 큰 도전입니다. 정상에 오르는 것이 목표이지만, 에베레스트산을 여러번 오르는 것은 비현실적입니다. 오직 한번의 기회뿐입니다. 신중할 필요가 있습니다. 항상 위쪽으로 올라가는 대신 가끔 낮은 지점으로 이동해서 다른 길을 탐색하고 잘못된 길로 접어들 확률을 줄입니다. 높이 올라가면 올라갈수록 낮은 지점으로 이동하여 탐색할 확률이 낮아집니다.
+
+## 2.4 – [동적 프로그래밍](http://en.wikipedia.org/wiki/Dynamic_programming)
+```
+아빠: *종이에 “1+1+1+1+1+1+1+1 =”이라 쓴다.*
+아빠: 정답이 뭘까요?
+아이: *세보더나 3초 후에* 8이요!
+아빠: *왼편에 “1+”이라 쓴다.*
+아빠: 이번에는?
+아이: *즉시* 9요!
+아빠: 와우! 어떻게 그렇게 빨리 계산했지?
+아이: 1만 더 더하면 되잖아요!
+아빠: 이전 답이 8이라는걸 알았으니까 다시 계산할 필요가 없었구나. 똑똑하군!
+```
+Jonathan Paulson / [Quora](http://go.skimresources.com/?id=80757X1532039&xs=1&isjs=1&url=http%3A%2F%2Fwww.quora.com%2FHow-should-I-explain-dynamic-programming-to-a-4-year-old%2Fanswer%2FJonathan-Paulson&xguid=62f2a82b862028b7bb904f718462b28f&xuuid=dc8b6fa4a3da275e357375821cb77f27&xsessid=&xcreo=0&xed=0&sref=http%3A%2F%2Fcarlcheo.com%2Fcompsci&xtz=-540&jv=13.20.0-stackpath&bv=2.5.1)
+
+위의 예가 메모이제이션을 설명하고 있습니다. (메모리제이션 아니고 메모이제이션임) 동적 프로그래밍에서 탑-다운 접근 방식은 이전에 계산한 값을 저장해두었다가 다음에 사용합니다.
