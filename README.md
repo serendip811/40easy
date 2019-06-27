@@ -113,3 +113,7 @@ Balaji Viswanathan/[Quora](http://go.skimresources.com/?id=80757X1532039&xs=1&is
 Jonathan Paulson / [Quora](http://go.skimresources.com/?id=80757X1532039&xs=1&isjs=1&url=http%3A%2F%2Fwww.quora.com%2FHow-should-I-explain-dynamic-programming-to-a-4-year-old%2Fanswer%2FJonathan-Paulson&xguid=62f2a82b862028b7bb904f718462b28f&xuuid=dc8b6fa4a3da275e357375821cb77f27&xsessid=&xcreo=0&xed=0&sref=http%3A%2F%2Fcarlcheo.com%2Fcompsci&xtz=-540&jv=13.20.0-stackpath&bv=2.5.1)
 
 위의 예가 메모이제이션을 설명하고 있습니다. (메모리제이션 아니고 메모이제이션임) 동적 프로그래밍에서 탑-다운 접근 방식은 이전에 계산한 값을 저장해두었다가 다음에 사용합니다.
+
+더보기: [Dynamic Programming – From Novice to Advanced (TopCoder)](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/), [Tutorial for Dynamic Programming (CodeChef)](http://www.codechef.com/wiki/tutorial-dynamic-programming)
+
+
