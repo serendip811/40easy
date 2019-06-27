@@ -117,3 +117,8 @@ Jonathan Paulson / [Quora](http://go.skimresources.com/?id=80757X1532039&xs=1&is
 더보기: [Dynamic Programming – From Novice to Advanced (TopCoder)](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/), [Tutorial for Dynamic Programming (CodeChef)](http://www.codechef.com/wiki/tutorial-dynamic-programming)
 
 
+## 2.5 – [머신 러닝](http://en.wikipedia.org/wiki/Machine_learning)
+
+Pararth Shah가 [여기](http://go.skimresources.com/?id=80757X1532039&xs=1&isjs=1&url=http%3A%2F%2Fwww.quora.com%2FHow-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people%2Fanswer%2FPararth-Shah&xguid=62f2a82b862028b7bb904f718462b28f&xuuid=dc8b6fa4a3da275e357375821cb77f27&xsessid=&xcreo=0&xed=0&sref=http%3A%2F%2Fcarlcheo.com%2Fcompsci&xtz=-540&jv=13.20.0-stackpath&bv=2.5.1)서 훌륭한 비유를 썼는데, 너무 길어서 옮기지는 않습니다.
+
+
