@@ -116,9 +116,37 @@ Jonathan Paulson / [Quora](http://go.skimresources.com/?id=80757X1532039&xs=1&is
 
 더보기: [Dynamic Programming – From Novice to Advanced (TopCoder)](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/), [Tutorial for Dynamic Programming (CodeChef)](http://www.codechef.com/wiki/tutorial-dynamic-programming)
 
-
 ## 2.5 – [머신 러닝](http://en.wikipedia.org/wiki/Machine_learning)
 
 Pararth Shah가 [여기](http://go.skimresources.com/?id=80757X1532039&xs=1&isjs=1&url=http%3A%2F%2Fwww.quora.com%2FHow-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people%2Fanswer%2FPararth-Shah&xguid=62f2a82b862028b7bb904f718462b28f&xuuid=dc8b6fa4a3da275e357375821cb77f27&xsessid=&xcreo=0&xed=0&sref=http%3A%2F%2Fcarlcheo.com%2Fcompsci&xtz=-540&jv=13.20.0-stackpath&bv=2.5.1)서 훌륭한 비유를 썼는데, 너무 길어서 옮기지는 않습니다.
 
+## 2.6 – [P vs NP Problem](https://en.wikipedia.org/wiki/P_versus_NP_problem)
 
+P vs NP 는 컴퓨터 과학계에서 가장 유명하고 중요한 풀지못한 문제중 하나입니다.
+
+곱셈 문제가 있다고 합시다.
+> Q1: 7 x 17 = p
+
+정답은 119입니다. 풀기 너무 쉽죠? 그럼 거꾸로 이문제는 어떨까요?
+> Q2: p x q = 119 (p & q cannot be 1 & 119)
+
+두번째 문제를 풀기 위해서, Q1을 보지 않았다면, 아마 2부터 118까지 모든 숫자들을 넣어봐야 할것입니다. [소인수들](https://en.wikipedia.org/wiki/Integer_factorization)을 쉽게 찾을 수 있는 효율적인 알고리즘을 아직 찾아내지 못했습니다.
+
+이 문제는 어떨까요: p가 7일수 있을까요? 아마 쉽게 답할수 있을겁니다. 그냥 119를 7로 나눠보면 되니까요!
+
+곱셈은 쉽습니다. 하지만 소인수를 찾아내는 것은 어렵습니다.
+
+Q1은 풀기 쉽기 때문에 P(다항식)문제입니다. 컴퓨터는 두 수가 엄청나게 크더라도 별로 시간을 들이지 않고 곱셈을 해낼수 있습니다.
+
+Q2는 정의하기는 쉽지만 해결하기는 어렵기 때문에 NP(비 결정식 다항식)문제입니다. 119의 소인수를 찾는 것은 컴퓨터가 계산하기 쉽지만 500자리의 숫자는 어떨까요? 지금은 어떤 컴퓨터에서도 불가능합니다.
+
+중요한 부분은 다음과 같습니다. NP문제 (예:분해) 또한 P문제(예:곱셈)아닐까요? 단지 NP문제를 풀기 위한 효율적인 방법을 찾지 못한것 아닐까요? 
+NP문제는 정말 해결하기 어려울까요? 아니면 훌륭한 알고리즘을 가진 멋진 과학자 (혹시 당신?)의 "유레카!"가 필요합니까? 아니면 인간이 너무 어리석은걸까요? 인간보다 [훨씬 지능이 높은 기계나 생명](https://www.youtube.com/watch?v=aTZyVZBtP70&t=8m46s)이 있다고 상상해봅시다. 그들은 우리가 개미를 보듯이 우리를 볼것입니다. 우리의 지능 수준은 그들에게 너무 하찮을것 입니다. P vs NP 문제를 푸는 것은 그들에게 1 + 1을 푸는 것과 같습니다!
+
+그럼 P vs NP 문제가 왜 중요할까요? 우리가 P = NP를 증명할 수 있다면, [모든 NP 문제](https://en.wikipedia.org/wiki/List_of_NP-complete_problems)가 컴퓨터가 계산할만한 시간 내에 쉽게 해결 될 수 있다는 것을 의미합니다. 우리는 암([단백질 접힘](http://en.wikipedia.org/wiki/Protein_folding))의 치료, 암호 ([RSA](http://en.wikipedia.org/wiki/RSA_%28cryptosystem%29)) 해독 등을 할수 있을 것입니다. 세상을 바꾸는것이죠!
+
+P vs NP는 클레이 수학 연구소(Clay Mathematics Institute)의 [7가지 밀레니엄 상 문제들](http://www.claymath.org/millennium-problems) 중 한가지입니다. 첫번째 정답자에게 1백만 달러가 주어집니다.
+
+더보기: [P vs. NP and the Computational Complexity Zoo (video)](https://www.youtube.com/watch?v=YX40hbAHx3s), [Simple Wikipedia](http://simple.wikipedia.org/wiki/P_versus_NP)
+
+이것도 봅시다: [프로그래밍 언어의 반지의 제왕 비유 [인포그래픽]](http://carlcheo.com/startcoding)
