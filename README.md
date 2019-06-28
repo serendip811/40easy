@@ -150,3 +150,20 @@ P vs NP는 클레이 수학 연구소(Clay Mathematics Institute)의 [7가지 �
 더보기: [P vs. NP and the Computational Complexity Zoo (video)](https://www.youtube.com/watch?v=YX40hbAHx3s), [Simple Wikipedia](http://simple.wikipedia.org/wiki/P_versus_NP)
 
 이것도 봅시다: [프로그래밍 언어의 반지의 제왕 비유 [인포그래픽]](http://carlcheo.com/startcoding)
+
+# 주요 개념 #3 – 컴퓨터 아키텍쳐 및 엔지니어링
+
+## 3.1 – 컴퓨터는 어떻게 동작하는가?
+![computer](http://carlcheo.com/wp-content/uploads/2015/04/abstraction.jpg)
+
+컴퓨터는 복잡성 위에 복잡성을 추가하면서 동작합니다. 자동차를 운전할때 자동차 엔진이 어떻게 동작하는지 이해할 필요는 없습니다. 복잡한 세부사항은 가려져 있습니다.
+
+그럼 컴퓨터는 0과1의 바이너리 코드를 어떻게 프로그램으로 만들까요? 도미노를 이용해 컴퓨터가 가장 기본적인 수준에서 이진 계산을 어떻게 하는지 보여주는 비디오가 있습니다.
+
+
+[![https://youtu.be/lNuPy-r1GuQ](http://img.youtube.com/vi/lNuPy-r1GuQ/0.jpg)](https://youtu.be/lNuPy-r1GuQ)
+
+더 보기: [Interactive explanation on how computer works](http://www.simplecpu.com/)
+
+
+
